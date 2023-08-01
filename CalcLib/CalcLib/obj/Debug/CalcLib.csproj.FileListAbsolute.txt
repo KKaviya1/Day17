@@ -1,0 +1,6 @@
+F:\Day - 17\CalcLib\CalcLib\bin\Debug\CalcLib.dll
+F:\Day - 17\CalcLib\CalcLib\bin\Debug\CalcLib.pdb
+F:\Day - 17\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.AssemblyReference.cache
+F:\Day - 17\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+F:\Day - 17\CalcLib\CalcLib\obj\Debug\CalcLib.dll
+F:\Day - 17\CalcLib\CalcLib\obj\Debug\CalcLib.pdb

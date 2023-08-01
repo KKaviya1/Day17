@@ -1,0 +1,8 @@
+F:\Day - 17\unsafeEx\unsafeEx\bin\Debug\unsafeEx.exe.config
+F:\Day - 17\unsafeEx\unsafeEx\bin\Debug\unsafeEx.exe
+F:\Day - 17\unsafeEx\unsafeEx\bin\Debug\unsafeEx.pdb
+F:\Day - 17\unsafeEx\unsafeEx\obj\Debug\unsafeEx.csproj.AssemblyReference.cache
+F:\Day - 17\unsafeEx\unsafeEx\obj\Debug\unsafeEx.csproj.SuggestedBindingRedirects.cache
+F:\Day - 17\unsafeEx\unsafeEx\obj\Debug\unsafeEx.csproj.CoreCompileInputs.cache
+F:\Day - 17\unsafeEx\unsafeEx\obj\Debug\unsafeEx.exe
+F:\Day - 17\unsafeEx\unsafeEx\obj\Debug\unsafeEx.pdb

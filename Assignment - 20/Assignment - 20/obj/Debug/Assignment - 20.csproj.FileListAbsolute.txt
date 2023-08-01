@@ -1,0 +1,11 @@
+F:\Day - 17\Assignment - 20\Assignment - 20\obj\Debug\Assignment - 20.csproj.AssemblyReference.cache
+F:\Day - 17\Assignment - 20\Assignment - 20\obj\Debug\Assignment - 20.csproj.SuggestedBindingRedirects.cache
+F:\Day - 17\Assignment - 20\Assignment - 20\obj\Debug\Assignment - 20.csproj.CoreCompileInputs.cache
+F:\Day - 17\Assignment - 20\Assignment - 20\bin\Debug\Assignment - 20.exe.config
+F:\Day - 17\Assignment - 20\Assignment - 20\bin\Debug\Assignment - 20.exe
+F:\Day - 17\Assignment - 20\Assignment - 20\bin\Debug\Assignment - 20.pdb
+F:\Day - 17\Assignment - 20\Assignment - 20\obj\Debug\Assignment - 20.exe
+F:\Day - 17\Assignment - 20\Assignment - 20\obj\Debug\Assignment - 20.pdb
+F:\Day - 17\Assignment - 20\Assignment - 20\bin\Debug\Library.dll
+F:\Day - 17\Assignment - 20\Assignment - 20\bin\Debug\Library.pdb
+F:\Day - 17\Assignment - 20\Assignment - 20\obj\Debug\Assignment - 20.csproj.CopyComplete

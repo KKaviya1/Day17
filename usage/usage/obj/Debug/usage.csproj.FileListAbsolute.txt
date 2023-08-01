@@ -1,0 +1,11 @@
+F:\Day - 17\usage\usage\bin\Debug\usage.exe.config
+F:\Day - 17\usage\usage\bin\Debug\usage.exe
+F:\Day - 17\usage\usage\bin\Debug\usage.pdb
+F:\Day - 17\usage\usage\obj\Debug\usage.csproj.AssemblyReference.cache
+F:\Day - 17\usage\usage\obj\Debug\usage.csproj.SuggestedBindingRedirects.cache
+F:\Day - 17\usage\usage\obj\Debug\usage.csproj.CoreCompileInputs.cache
+F:\Day - 17\usage\usage\obj\Debug\usage.exe
+F:\Day - 17\usage\usage\obj\Debug\usage.pdb
+F:\Day - 17\usage\usage\bin\Debug\CalcLib.dll
+F:\Day - 17\usage\usage\bin\Debug\CalcLib.pdb
+F:\Day - 17\usage\usage\obj\Debug\usage.csproj.CopyComplete

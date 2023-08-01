@@ -1,0 +1,8 @@
+F:\Day - 17\productlib\productlib\obj\Debug\productlib.csproj.AssemblyReference.cache
+F:\Day - 17\productlib\productlib\obj\Debug\productlib.csproj.SuggestedBindingRedirects.cache
+F:\Day - 17\productlib\productlib\obj\Debug\productlib.csproj.CoreCompileInputs.cache
+F:\Day - 17\productlib\productlib\bin\Debug\productlib.exe.config
+F:\Day - 17\productlib\productlib\bin\Debug\productlib.exe
+F:\Day - 17\productlib\productlib\bin\Debug\productlib.pdb
+F:\Day - 17\productlib\productlib\obj\Debug\productlib.exe
+F:\Day - 17\productlib\productlib\obj\Debug\productlib.pdb
